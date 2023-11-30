@@ -1,4 +1,4 @@
-#[contract]
+#[contractv2.0]
 mod HelloStarknet {
     use starknet::get_caller_address;
     use starknet::ContractAddress;
@@ -15,4 +15,4 @@ mod HelloStarknet {
     }
 
 }
-sds1
+
